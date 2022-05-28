@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-wai-aria-apg-examples/accordion/static/css/main.0c419583.css",
+    "main.js": "/react-wai-aria-apg-examples/accordion/static/js/main.8994d319.js",
+    "static/js/787.b22e33ef.chunk.js": "/react-wai-aria-apg-examples/accordion/static/js/787.b22e33ef.chunk.js",
+    "index.html": "/react-wai-aria-apg-examples/accordion/index.html",
+    "main.0c419583.css.map": "/react-wai-aria-apg-examples/accordion/static/css/main.0c419583.css.map",
+    "main.8994d319.js.map": "/react-wai-aria-apg-examples/accordion/static/js/main.8994d319.js.map",
+    "787.b22e33ef.chunk.js.map": "/react-wai-aria-apg-examples/accordion/static/js/787.b22e33ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c419583.css",
+    "static/js/main.8994d319.js"
+  ]
+}
